@@ -1,4 +1,4 @@
-## OpenCon: Open-world Contrastive Learning with Wild Unlabeled Data
+## OpenCon: Open-world Contrastive Learning
 Yiyou Sun, Yixuan (Sharon) Li
 
 
