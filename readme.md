@@ -6,7 +6,7 @@ This repo contains the reference source code in PyTorch of the OpenCon framework
 We introduce a new learning framework, open-world contrastive learning (OpenCon). 
 OpenCon tackles the challenges of learning compact representations for both known 
 and novel classes, and facilitates novelty discovery along the way. 
-For more details please check our paper [OpenCon: Open-world Contrastive Learning with Wild Unlabeled Data](https://arxiv.org/abs/2208.02764) 
+For more details please check our paper [OpenCon: Open-world Contrastive Learning](https://arxiv.org/abs/2208.02764) 
 (TMLR 22). 
 
 ### Dependencies
@@ -44,7 +44,7 @@ If you find our code useful, please consider citing:
 ```
 @inproceedings{
     sun2022opencon,
-    title={OpenCon: Open-world Contrastive Learning with Wild Unlabeled Data},
+    title={OpenCon: Open-world Contrastive Learning},
     author={Yiyou Sun and Yixuan Li},
     booktitle={Transactions on Machine Learning Research},
     year={2022},
