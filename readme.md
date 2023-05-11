@@ -7,7 +7,7 @@ We introduce a new learning framework, open-world contrastive learning (OpenCon)
 OpenCon tackles the challenges of learning compact representations for both known 
 and novel classes, and facilitates novelty discovery along the way. 
 For more details please check our paper [OpenCon: Open-world Contrastive Learning](https://arxiv.org/abs/2208.02764) 
-(TMLR 22). 
+(TMLR 23). 
 
 ### Dependencies
 
@@ -43,11 +43,11 @@ If you find our code useful, please consider citing:
 
 ```
 @inproceedings{
-    sun2022opencon,
+    sun2023opencon,
     title={OpenCon: Open-world Contrastive Learning},
     author={Yiyou Sun and Yixuan Li},
     booktitle={Transactions on Machine Learning Research},
-    year={2022},
+    year={2023},
     url={https://openreview.net/forum?id=2wWJxtpFer}
 }
 ```
